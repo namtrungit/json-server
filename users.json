@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "TrungBN",
+      "age": 27
+    },
+    {
+      "name": "TrungBN",
+      "age": 17,
+      "id": 3
+    },
+    {
+      "name": "TrungBNBB",
+      "age": 18,
+      "id": 4
+    },
+    {
+      "name": "TrungBNBB",
+      "age": 18,
+      "id": 5
+    },
+    {
+      "name": "TrungBNBB",
+      "age": 18,
+      "id": 6
+    },
+    {
+      "name": "TrungBNBB",
+      "age": 18,
+      "id": 7
+    }
+  ]
+}
